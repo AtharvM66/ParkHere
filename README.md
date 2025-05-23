@@ -3,4 +3,5 @@
 - Utilized computer vision techniques to draw green boxes for empty spots and red boxes for occupied spots.
 - Preprocessed images by resizing and flattening for efficient model input.
 - Technology used: Python, OpenCV, NumPy, Scikit-learn, Skimage.
+- GridSearchCV, SVC.
 - Dataset: 6090 images (3045 empty, 30345 non empty).
